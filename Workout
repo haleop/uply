@@ -1,0 +1,39 @@
+[
+  {
+    "title2": "Full Body",
+    "iv": 1,
+    "exercises": [
+      {
+        "name": 101,
+        "gif": 201,
+        "duration": 30
+      },
+      {
+        "name": 102,
+        "gif": 202,
+        "duration": 45
+      },
+      {
+        "name": 103,
+        "gif": 203,
+        "duration": 60
+      }
+    ]
+  },
+  {
+    "title2": "Upper Body",
+    "iv": 2,
+    "exercises": [
+      {
+        "name": 201,
+        "gif": 301,
+        "duration": 40
+      },
+      {
+        "name": 202,
+        "gif": 302,
+        "duration": 50
+      }
+    ]
+  }
+]
