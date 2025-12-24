@@ -3,7 +3,7 @@
     "title2": "لاغر شدن صورت",
     "iv": 1,
     "ivonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim.jpg",
-    "exerciseplane": [
+    "exercises": [
       {
         "name": 101,
         "gif": 0,
@@ -24,3 +24,4 @@
       }
     ]
   }
+]
