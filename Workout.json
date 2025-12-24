@@ -8,19 +8,19 @@
         "name": 101,
         "gif": 201,
         "duration": 30,
-        "gifonlion": "https://example.com/gifs/jumping_jacks.gif"
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim1.gif"
       },
       {
         "name": 102,
         "gif": 202,
-        "duration": 45,
-        "gifonlion": "https://example.com/gifs/high_knees.gif"
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim2.gif"
       },
       {
         "name": 103,
         "gif": 203,
-        "duration": 60,
-        "gifonlion": "https://example.com/gifs/burpees.gif"
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim3.gif"
       }
     ]
   }
