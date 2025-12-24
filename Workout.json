@@ -1,39 +1,26 @@
 [
   {
-    "title2": "Full Body",
+    "title2": "لاغر شدن صورت",
     "iv": 1,
+    "ivonlion": "",
     "exercises": [
       {
         "name": 101,
         "gif": 201,
-        "duration": 30
+        "duration": 30,
+        "gifonlion": "https://example.com/gifs/jumping_jacks.gif"
       },
       {
         "name": 102,
         "gif": 202,
-        "duration": 45
+        "duration": 45,
+        "gifonlion": "https://example.com/gifs/high_knees.gif"
       },
       {
         "name": 103,
         "gif": 203,
-        "duration": 60
-      }
-    ]
-  },
-  {
-    "title2": "Upper Body",
-    "iv": 2,
-    "exercises": [
-      {
-        "name": 201,
-        "gif": 301,
-        "duration": 40
-      },
-      {
-        "name": 202,
-        "gif": 302,
-        "duration": 50
+        "duration": 60,
+        "gifonlion": "https://example.com/gifs/burpees.gif"
       }
     ]
   }
-]
