@@ -6,19 +6,19 @@
     "exerciseplane": [
       {
         "name": 101,
-        "gif": 201,
+        "gif": 0,
         "duration": 30,
         "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim1.gif"
       },
       {
         "name": 102,
-        "gif": 202,
+        "gif": 0,
         "duration": 30,
         "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim2.gif"
       },
       {
         "name": 103,
-        "gif": 203,
+        "gif": 0,
         "duration": 30,
         "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim3.gif"
       }
