@@ -47,4 +47,20 @@
       
     ]
   }
+
+   {
+    "title2": "رفع چین و چروک",
+    "iv": 1,
+    "ivonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim.jpg",
+    "exercises": [
+      {
+        "name": 101,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim1.gif"
+      },
+
+    ]
+
+   }
 ]
