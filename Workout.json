@@ -22,45 +22,37 @@
         "duration": 30,
         "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim3.gif"
       },
-
       {
-        "name": 103,
+        "name": 104,
         "gif": 0,
         "duration": 30,
         "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim4.gif"
       },
-
-       {
-        "name": 103,
+      {
+        "name": 105,
         "gif": 0,
         "duration": 30,
         "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim5.gif"
       },
-
       {
-        "name": 103,
+        "name": 106,
         "gif": 0,
         "duration": 30,
         "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim6.gif"
       }
-
-      
     ]
-  }
-
-   {
+  },
+  {
     "title2": "رفع چین و چروک",
     "iv": 1,
     "ivonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim.jpg",
     "exercises": [
       {
-        "name": 101,
+        "name": 201,
         "gif": 0,
         "duration": 30,
         "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim1.gif"
       }
-
     ]
-
-   }
+  }
 ]
