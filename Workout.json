@@ -90,5 +90,56 @@
       }
       
     ]
+  },
+
+   {
+    "title2": "رفع گرفتگی گردن و شانه در محل کار",
+    "iv": 1,
+    "ivonlion": "https://raw.githubusercontent.com/haleop/uply/main/of.png",
+    "exercises": [
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/ch1.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/ch2.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/ch3.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/ch4.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/ch5.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/ch6.gif"
+      }
+      
+    ]
   }
+  
 ]
