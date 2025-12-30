@@ -189,6 +189,100 @@
       }
       
     ]
+  },
+
+     {
+    "title2": "لاغری بازو",
+    "iv": 1,
+    "ivonlion": "https://raw.githubusercontent.com/haleop/uply/main/arm.jpg",
+    "exercises": [
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/arm1.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/arm2.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/arm3.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/arm4.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/arm5.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/arm6.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/arm7.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/arm8.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/arm9.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/arm10.gif"
+      },
+
+    {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/arm11.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/arm12.gif"
+      }
+
+     
+    ]
   }
+  
   
 ]
