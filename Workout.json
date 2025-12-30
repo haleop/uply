@@ -1,6 +1,7 @@
 [
   {
     "title2": "لاغر شدن صورت",
+    "viewType": 1,
     "iv": 1,
     "ivonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim.jpg",
     "exercises": [
@@ -44,6 +45,7 @@
   },
   {
     "title2": "رفع غبغب صورت",
+    "viewType": 1,
     "iv": 1,
     "ivonlion": "https://raw.githubusercontent.com/haleop/uply/main/ch.jpg",
     "exercises": [
@@ -94,6 +96,7 @@
 
    {
     "title2": "رفع گرفتگی گردن و شانه در محل کار",
+    "viewType": 2,
     "iv": 1,
     "ivonlion": "https://raw.githubusercontent.com/haleop/uply/main/of.png",
     "exercises": [
@@ -193,6 +196,7 @@
 
      {
     "title2": "لاغری بازو",
+    "viewType": 2,   
     "iv": 1,
     "ivonlion": "https://raw.githubusercontent.com/haleop/uply/main/arm.jpg",
     "exercises": [
