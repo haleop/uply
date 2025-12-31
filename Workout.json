@@ -1,7 +1,7 @@
 [
   {
     "title2": "لاغر شدن صورت",
-    "viewType": 2,
+    "viewType": 1,
     "iv": 1,
     "ivonlion": "https://raw.githubusercontent.com/haleop/uply/main/slim.jpg",
     "exercises": [
@@ -45,7 +45,7 @@
   },
   {
     "title2": "رفع غبغب صورت",
-    "viewType": 2,
+    "viewType": 1,
     "iv": 1,
     "ivonlion": "https://raw.githubusercontent.com/haleop/uply/main/ch.jpg",
     "exercises": [
