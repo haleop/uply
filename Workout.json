@@ -696,7 +696,90 @@
   
  
     ]
+  },
+
+
+  
+    {
+    "title2": "تسکین درد قاعدگی",
+    "viewType": 3,   
+    "iv": 1,
+    "ivonlion": "https://raw.githubusercontent.com/haleop/uply/main/p.jpg",
+    "exercises": [
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/p1.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/p2.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/p3.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/p4.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/p5.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/p6.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/p7.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/p8.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/p9.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/p10.gif"
+      }
+  
+ 
+    ]
   }
+  
   
   
   
