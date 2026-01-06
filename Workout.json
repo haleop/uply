@@ -900,6 +900,107 @@
 
      
     ]
+  },
+
+   {
+    "title2": "کشش کل بدن",
+    "viewType": 3,   
+    "iv": 1,
+    "ivonlion": "https://raw.githubusercontent.com/haleop/uply/main/s.jpg",
+    "exercises": [
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/s1.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/s2.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/s3.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/s4.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/s5.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/s6.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/s7.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/s8.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/s9.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/s10.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/s11.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/s12.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/s13.gif"
+      },
+
+
+    ]
   }
   
   
