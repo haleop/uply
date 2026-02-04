@@ -1001,7 +1001,131 @@
 
 
     ]
+  },
+
+  {
+    "title2": "کشش کمر",
+    "viewType": 4,   
+    "iv": 1,
+    "ivonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb.jpg",
+    "exercises": [
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb1.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb2.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb3.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb4.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb5.gif"
+      },
+
+       {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb6.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb7.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb8.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb9.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb10.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb11.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb12.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb13.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb14.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb15.gif"
+      },
+
+      {
+        "name": 201,
+        "gif": 0,
+        "duration": 30,
+        "gifonlion": "https://raw.githubusercontent.com/haleop/uply/main/sb16.gif"
+      }
+
+
+    ]
   }
+
+  
   
   
   
