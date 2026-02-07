@@ -1,0 +1,46 @@
+[
+  {
+    "title": "چالش لاغری صورت",
+    "iv": "https://raw.githubusercontent.com/haleop/uply/main/slim.jpg",
+    "exercises": [
+      {
+        "day": 1,
+        "gifs": [
+          "https://raw.githubusercontent.com/haleop/uply/main/slim1.gif",
+          "https://raw.githubusercontent.com/haleop/uply/main/slim2.gif",
+          "https://raw.githubusercontent.com/haleop/uply/main/slim3.gif"
+        ],
+        "time": 90
+      },
+      {
+        "day": 2,
+        "gifs": [
+          "https://raw.githubusercontent.com/haleop/uply/main/slim4.gif",
+          "https://raw.githubusercontent.com/haleop/uply/main/slim5.gif"
+        ],
+        "time": 60
+      }
+    ]
+  },
+  {
+    "title": "چالش گردن درد",
+    "iv": "https://raw.githubusercontent.com/haleop/uply/main/neck.jpg",
+    "exercises": [
+      {
+        "day": 1,
+        "gifs": [
+          "https://raw.githubusercontent.com/haleop/uply/main/neck1.gif",
+          "https://raw.githubusercontent.com/haleop/uply/main/neck2.gif"
+        ],
+        "time": 40
+      },
+      {
+        "day": 2,
+        "gifs": [
+          "https://raw.githubusercontent.com/haleop/uply/main/neck3.gif"
+        ],
+        "time": 30
+      }
+    ]
+  }
+]
